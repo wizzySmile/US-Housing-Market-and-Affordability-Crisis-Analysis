@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# US Housing Market and Affordability Crisis Analysis Project
 
 Welcome to the US Housing Market and Affordability Crisis Analysis Project repository!
 
