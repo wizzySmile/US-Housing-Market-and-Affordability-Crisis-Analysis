@@ -13,7 +13,7 @@ It combines **Python data processing/cleaning** and **API integration** with **T
 - [Project Requirements](#project-requirements)
 - [Project Goal](#project-goal)
 - [BI: Analytics & Reporting](#bi-analytics--reporting)
-- [Tableau Dashboard Overview](https://public.tableau.com/app/profile/wisdom.mpamugo/viz/salesbaraaproject/customersummary)
+- [Tableau Dashboard Overview](https://public.tableau.com/shared/2C7HTW59F?:display_count=n&:origin=viz_share_link)
 - [Repository Structure](#-repository-structure)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
@@ -107,7 +107,7 @@ Python ensures the data is structured and analysis-ready before moving into Tabl
 Develop Tableau dashboards to deliver detailed insights into housing affordability outcomes and drivers.  
 
 📊 *Tableau Dashboard*  
-- View the interactive Tableau dashboards here: [Tableau Dashboard Link](https://public.tableau.com/app/profile/wisdom.mpamugo/viz/usahouseaffordabilitycrisis/dashboard)  
+- View the interactive Tableau dashboards here: [Tableau Dashboard Link](https://public.tableau.com/shared/2C7HTW59F?:display_count=n&:origin=viz_share_link)
 
 #### Dashboard Sections
 - **Affordability Outcomes (What’s happening)**  
